@@ -1,0 +1,133 @@
+
+        body{
+            color: #40514E;
+            margin: 0;
+            text-align: center;
+            font-family: 'Merriweather', serif;
+            
+        }
+        h1
+        {
+            color: chocolate;
+            font-size: 562.5%;
+            line-height: 2;
+            margin-top: 0;
+            font-family: 'Sacramento', cursive;
+            
+        }
+        h2 {
+            color: chocolate;
+        
+            font-family: 'Montserrat', sans-serif;
+            font-weight: normal;
+            padding-bottom: 10px;
+        }
+        h3 {
+            color: chocolate;
+            font-family: 'Montserrat', sans-serif;
+        }
+        p{
+            line-height: 2;
+        }
+
+        hr{
+            border: dotted #EAF6F6 6px;
+            border-bottom: none;
+            width: 4%;
+            margin: 100px auto;
+            
+        }
+
+        a{
+            color: chocolate;
+            font-family:'Montserrat', sans-serif ;
+            margin: 10px 20px;
+            text-decoration: none;
+        }
+        a:hover{
+            color: #EAF6F6;
+        }
+
+        .top-conatiner{
+            background-color:#f4e04d;
+            position: relative;
+            padding-top: 100px;
+            
+        }
+        
+       .skill-row{
+           width: 50%;
+           margin: 100px auto 100px auto;
+           text-align: left;
+           line-height: 2;
+       }
+      
+        div {
+            background-color: aqua;
+        }
+        .web{
+            text-decoration: underline;
+        }
+        .top-cloud {
+            position: absolute;
+            right: 300px;
+            top: 50px;
+        }
+        .bottom-cloud {
+            position: absolute;
+            left: 300px;
+            bottom: 300px;
+        }
+        .skills-img{
+            width: 25%;
+            float: left;
+            margin-right: 30px;
+        }
+        .project-img{
+            width: 25%;
+            float: right;
+            margin-left: 30px;
+
+        }
+        .academic-img{
+            width: 25%;
+            float: left;
+            margin-right: 30px;
+        }
+       .certificate-img{
+           width: 25%;
+           float: right;
+           margin-left: 30px;
+       }
+       .contact-message{
+           width: 40%;
+           margin: 40px auto 60px;
+       }
+       .copyright{
+           color:#EAF6F6;
+       }
+      
+
+        .myButton {
+            background-color:#44c767;
+            border-radius:28px;
+            border:1px solid #18ab29;
+            display:inline-block;
+            cursor:pointer;
+            color:#ffffff;
+            font-family: 'Montserrat', sans-serif;
+            font-size:17px;
+            padding:16px 31px;
+            text-decoration:none;
+            text-shadow:0px 1px 0px #2f6627;
+        }
+        .myButton:hover {
+            background-color:#5cbf2a;
+        }
+        .myButton:active {
+            position:relative;
+            top:1px;
+        }
+       
+             
+ 
